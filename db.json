@@ -1,0 +1,10 @@
+{
+    "products": [
+        { "SKU":2,"Name":"a","image":"https://via.placeholder.com/600/ecghrf","Categories":"b","price":23,"date":"1/2/2006" },
+        { "SKU":2,"Name":"a","image":"https://via.placeholder.com/600/434ref","Categories":"b","price":23,"date":"1/2/2006" },
+        { "SKU":2,"Name":"a","image":"https://via.placeholder.com/600/45433fe","Categories":"b","price":23,"date":"1/2/2006" },
+        { "SKU":2,"Name":"a","image":"https://via.placeholder.com/600/334435","Categories":"b","price":23,"date":"1/2/2006" },
+        { "SKU":2,"Name":"a","image":"https://via.placeholder.com/600/4543534","Categories":"b","price":23,"date":"1/2/2006" },
+        
+    ]
+  }
