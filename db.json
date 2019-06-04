@@ -1,11 +1,11 @@
 {
     "products": [
-      { "SKU": 1, "Name": "Product 1","image":"","categories":"cat1", "price":67, "date":""},
-      { "SKU": 2, "Name": "Product 2","image":"","categories":"cat2", "price":24, "date":""},
-      { "SKU": 3, "Name": "Product 3","image":"","categories":"cat3", "price":44, "date":""},
-      { "SKU": 4, "Name": "Product 4","image":"","categories":"cat4", "price":64, "date":""},
-      { "SKU": 5, "Name": "Product 5","image":"","categories":"cat5", "price":74, "date":""},
-      { "SKU": 6, "Name": "Product 6","image":"","categories":"cat6", "price":34, "date":""}
+      { "SKU": 1, "Name": "Product 1","image":"https://via.placeholder.com/600/771734","categories":"cat1", "price":67, "date":""},
+      { "SKU": 2, "Name": "Product 2","image":"https://via.placeholder.com/600/7717re","categories":"cat2", "price":24, "date":""},
+      { "SKU": 3, "Name": "Product 3","image":"https://via.placeholder.com/600/771765","categories":"cat3", "price":44, "date":""},
+      { "SKU": 4, "Name": "Product 4","image":"https://via.placeholder.com/600/771721","categories":"cat4", "price":64, "date":""},
+      { "SKU": 5, "Name": "Product 5","image":"https://via.placeholder.com/600/771734","categories":"cat5", "price":74, "date":""},
+      { "SKU": 6, "Name": "Product 6","image":"https://via.placeholder.com/600/7717c4","categories":"cat6", "price":34, "date":""}
     ],
     "profile": {
       "name": "typicode"
