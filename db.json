@@ -6,6 +6,13 @@
       { "SKU": 4, "Name": "Product 4","image":"https://via.placeholder.com/600/771721","categories":"cat4", "price":64, "date":""},
       { "SKU": 5, "Name": "Product 5","image":"https://via.placeholder.com/600/771734","categories":"cat5", "price":74, "date":""},
       { "SKU": 6, "Name": "Product 6","image":"https://via.placeholder.com/600/7717c4","categories":"cat6", "price":34, "date":""}
+    ],"details": [
+      { "SKU": 1, "Name": "Product 1","image":"https://via.placeholder.com/600/771734","price":67},
+      { "SKU": 2, "Name": "Product 2","image":"https://via.placeholder.com/600/7717re","price":24},
+      { "SKU": 3, "Name": "Product 3","image":"https://via.placeholder.com/600/771765","price":44},
+      { "SKU": 4, "Name": "Product 4","image":"https://via.placeholder.com/600/771721","price":64},
+      { "SKU": 5, "Name": "Product 5","image":"https://via.placeholder.com/600/771734","price":74},
+      { "SKU": 6, "Name": "Product 6","image":"https://via.placeholder.com/600/7717c4","price":34}
     ],
     "profile": {
       "name": "typicode"
