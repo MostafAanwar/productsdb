@@ -1,20 +1,52 @@
 {
-    "products": [
-      { "SKU": 1, "Name": "Product 1","image":"https://via.placeholder.com/600/771734","categories":"cat1", "price":67, "date":""},
-      { "SKU": 2, "Name": "Product 2","image":"https://via.placeholder.com/600/7717re","categories":"cat2", "price":24, "date":""},
-      { "SKU": 3, "Name": "Product 3","image":"https://via.placeholder.com/600/771765","categories":"cat3", "price":44, "date":""},
-      { "SKU": 4, "Name": "Product 4","image":"https://via.placeholder.com/600/771721","categories":"cat4", "price":64, "date":""},
-      { "SKU": 5, "Name": "Product 5","image":"https://via.placeholder.com/600/771734","categories":"cat5", "price":74, "date":""},
-      { "SKU": 6, "Name": "Product 6","image":"https://via.placeholder.com/600/7717c4","categories":"cat6", "price":34, "date":""}
-    ],"details": [
-      { "SKU": 1, "Name": "Product 1","image":"https://via.placeholder.com/600/771734","price":67},
-      { "SKU": 2, "Name": "Product 2","image":"https://via.placeholder.com/600/7717re","price":24},
-      { "SKU": 3, "Name": "Product 3","image":"https://via.placeholder.com/600/771765","price":44},
-      { "SKU": 4, "Name": "Product 4","image":"https://via.placeholder.com/600/771721","price":64},
-      { "SKU": 5, "Name": "Product 5","image":"https://via.placeholder.com/600/771734","price":74},
-      { "SKU": 6, "Name": "Product 6","image":"https://via.placeholder.com/600/7717c4","price":34}
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "products":[
+    {
+    "SKU": 1,
+    "name": "Phone XL",
+    "price": 799,
+    "description": "A large phone with one of the best screens",
+    "image":"https://via.placeholder.com/600/92c934",
+    "categories":"",
+    "date":""
+  },
+  {
+    "SKU": 2,
+    "name": "Phone Mini",
+    "price": 699,
+    "description": "A great phone with one of the best cameras",
+    "image":"https://via.placeholder.com/600/34c952",
+    "categories":"",
+    "date":""
+  },
+  {
+    "SKU": 3,
+    "name": "Phone Standard",
+    "price": 299,
+    "description": "A standard phone with standard camera",
+    "image":"https://via.placeholder.com/600/456945",
+    "categories":"",
+    "date":""
+  },
+  {
+    "SKU": 4,
+    "name": "Tablet Standard",
+    "price": 500,
+    "description": "A standard tablet with standard camera",
+    "image":"https://via.placeholder.com/600/345952",
+    "categories":"",
+    "date":""
+  },
+  {
+    "SKU": 5,
+    "name": "Tablet large",
+    "price": 800,
+    "description": "A large tablet with good camera",
+    "image":"https://via.placeholder.com/600/643952",
+    "categories":"",
+    "date":""
   }
+],
+"profile": {
+  "name": "typicode"
+}
+}
